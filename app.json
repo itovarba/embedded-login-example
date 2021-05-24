@@ -9,7 +9,7 @@
 	  "SALESFORCE_COMMUNITY_URL":"https://iberiaidentitylabs.force.com/customers",
 	  "SALESFORCE_CLIENT_ID":"3MVG9SOw8KERNN0.3wkuxfmJzqP.Q7zcGliCQHLQvW6ZPKCzcKdBjq_58RYrm_hgTYDg7aPCp7Aw3j0S5HZ9i",
 	  "SALESFORCE_HEROKUAPP_URL":"embedded-login-itovarlab.herokuapp.com",
-	  "SALESFORCE_MODE":"inline",
+	  "SALESFORCE_MODE":"modal",
 	  "SALESFORCE_FORGOT_PASSWORD_ENABLED":"true",
 	  "SALESFORCE_SELF_REGISTER_ENABLED":"true",
 	  "SALESFORCE_MASK_REDIRECTS":"true"
