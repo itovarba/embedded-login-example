@@ -11,7 +11,7 @@
 	  "SALESFORCE_HEROKUAPP_URL":"embedded-login-itovarlab.herokuapp.com",
 	  "SALESFORCE_MODE":"inline",
 	  "SALESFORCE_FORGOT_PASSWORD_ENABLED":"true",
-	  "SALESFORCE_SELF_REGISTER_ENABLED":"false",
+	  "SALESFORCE_SELF_REGISTER_ENABLED":"true",
 	  "SALESFORCE_MASK_REDIRECTS":"true"
 	  }
 }
